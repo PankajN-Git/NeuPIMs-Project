@@ -1,0 +1,1 @@
+. "/home/pc1/Desktop/Pankaj/NeuPIMs/build-conan2/conanrunenv-release-x86_64.sh"

@@ -1,0 +1,1 @@
+. "/home/pc1/Desktop/Pankaj/NeuPIMs/build-conan2/deactivate_conanbuildenv-release-x86_64.sh"

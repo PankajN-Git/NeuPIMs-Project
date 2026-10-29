@@ -1,0 +1,897 @@
+[
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/BatchedRequest.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/BatchedRequest.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/BatchedRequest.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/Common.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/Common.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/Common.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/Core.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/Core.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/Core.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/Dram.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/Dram.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/Dram.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/Interconnect.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/Interconnect.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/Interconnect.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/Mapping.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/Mapping.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/Mapping.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/Model.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/Model.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/Model.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/ModelProgram.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/ModelProgram.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/ModelProgram.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/NeuPIMSCore.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/NeuPIMSCore.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/NeuPIMSCore.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/NeuPIMSystolicWS.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/NeuPIMSystolicWS.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/NeuPIMSystolicWS.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/RequestGenerator.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/RequestGenerator.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/RequestGenerator.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/Simulator.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/Simulator.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/Simulator.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/Sram.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/Sram.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/Sram.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/StageProgram.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/StageProgram.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/StageProgram.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/SystolicOS.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/SystolicOS.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/SystolicOS.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/SystolicWS.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/SystolicWS.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/SystolicWS.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/Tensor.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/Tensor.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/Tensor.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/allocator/ActivationAllocator.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/allocator/ActivationAllocator.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/allocator/ActivationAllocator.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/allocator/KVCacheAllocator.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/allocator/KVCacheAllocator.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/allocator/KVCacheAllocator.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/allocator/WeightAllocator.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/allocator/WeightAllocator.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/allocator/WeightAllocator.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/client/Client.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/client/Client.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/client/Client.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/helper/CommandLineParser.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/helper/CommandLineParser.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/helper/CommandLineParser.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/main.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/main.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/main.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/operations/Add.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Add.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Add.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/operations/Attention.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Attention.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Attention.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/operations/Concat.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Concat.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Concat.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/operations/FusedMHA.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/FusedMHA.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/FusedMHA.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/operations/Gelu.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Gelu.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Gelu.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/operations/LayerNorm.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/LayerNorm.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/LayerNorm.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/operations/MatMul.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/MatMul.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/MatMul.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/operations/Microbench.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Microbench.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Microbench.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/operations/NeuPIMSAttend.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/NeuPIMSAttend.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/NeuPIMSAttend.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/operations/NeuPIMSLogitSoftmax.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/NeuPIMSLogitSoftmax.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/NeuPIMSLogitSoftmax.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/operations/Operation.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Operation.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Operation.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/operations/PIMGEMV.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/PIMGEMV.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/PIMGEMV.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/operations/PIMGEMVAdd.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/PIMGEMVAdd.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/PIMGEMVAdd.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/operations/PIMGEMVSoftmax.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/PIMGEMVSoftmax.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/PIMGEMVSoftmax.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/operations/Reshape.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Reshape.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Reshape.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/operations/Softmax.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Softmax.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Softmax.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/operations/Split.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Split.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Split.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/operations/SplitDecoding.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/SplitDecoding.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/SplitDecoding.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/operations/SplitEncoding.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/SplitEncoding.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/SplitEncoding.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/operations/Transpose.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Transpose.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Transpose.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/scheduler/NeuPIMScheduler.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/scheduler/NeuPIMScheduler.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/scheduler/NeuPIMScheduler.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/scheduler/OrcaScheduler.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/scheduler/OrcaScheduler.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/scheduler/OrcaScheduler.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/scheduler/Scheduler.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/scheduler/Scheduler.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/scheduler/Scheduler.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/tensor/BTensor.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/tensor/BTensor.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/tensor/BTensor.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/tensor/NPUTensor.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/tensor/NPUTensor.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/tensor/NPUTensor.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/tensor/NPUTensor2D.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/tensor/NPUTensor2D.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/tensor/NPUTensor2D.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/tensor/NPUTensorKV.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/tensor/NPUTensorKV.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/tensor/NPUTensorKV.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator.dir/tensor/PIMTensor.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/tensor/PIMTensor.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/tensor/PIMTensor.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/BatchedRequest.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/BatchedRequest.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/BatchedRequest.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/Common.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/Common.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/Common.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/Core.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/Core.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/Core.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/Dram.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/Dram.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/Dram.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/Interconnect.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/Interconnect.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/Interconnect.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/Mapping.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/Mapping.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/Mapping.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/Model.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/Model.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/Model.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/ModelProgram.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/ModelProgram.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/ModelProgram.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/NeuPIMSCore.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/NeuPIMSCore.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/NeuPIMSCore.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/NeuPIMSystolicWS.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/NeuPIMSystolicWS.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/NeuPIMSystolicWS.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/RequestGenerator.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/RequestGenerator.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/RequestGenerator.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/Simulator.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/Simulator.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/Simulator.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/Sram.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/Sram.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/Sram.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/StageProgram.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/StageProgram.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/StageProgram.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/SystolicOS.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/SystolicOS.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/SystolicOS.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/SystolicWS.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/SystolicWS.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/SystolicWS.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/Tensor.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/Tensor.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/Tensor.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/allocator/ActivationAllocator.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/allocator/ActivationAllocator.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/allocator/ActivationAllocator.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/allocator/KVCacheAllocator.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/allocator/KVCacheAllocator.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/allocator/KVCacheAllocator.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/allocator/WeightAllocator.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/allocator/WeightAllocator.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/allocator/WeightAllocator.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/client/Client.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/client/Client.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/client/Client.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/helper/CommandLineParser.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/helper/CommandLineParser.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/helper/CommandLineParser.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/main.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/main.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/main.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/operations/Add.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Add.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Add.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/operations/Attention.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Attention.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Attention.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/operations/Concat.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Concat.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Concat.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/operations/FusedMHA.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/FusedMHA.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/FusedMHA.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/operations/Gelu.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Gelu.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Gelu.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/operations/LayerNorm.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/LayerNorm.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/LayerNorm.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/operations/MatMul.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/MatMul.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/MatMul.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/operations/Microbench.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Microbench.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Microbench.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/operations/NeuPIMSAttend.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/NeuPIMSAttend.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/NeuPIMSAttend.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/operations/NeuPIMSLogitSoftmax.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/NeuPIMSLogitSoftmax.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/NeuPIMSLogitSoftmax.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/operations/Operation.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Operation.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Operation.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/operations/PIMGEMV.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/PIMGEMV.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/PIMGEMV.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/operations/PIMGEMVAdd.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/PIMGEMVAdd.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/PIMGEMVAdd.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/operations/PIMGEMVSoftmax.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/PIMGEMVSoftmax.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/PIMGEMVSoftmax.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/operations/Reshape.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Reshape.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Reshape.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/operations/Softmax.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Softmax.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Softmax.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/operations/Split.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Split.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Split.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/operations/SplitDecoding.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/SplitDecoding.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/SplitDecoding.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/operations/SplitEncoding.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/SplitEncoding.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/SplitEncoding.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/operations/Transpose.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Transpose.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/operations/Transpose.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/scheduler/NeuPIMScheduler.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/scheduler/NeuPIMScheduler.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/scheduler/NeuPIMScheduler.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/scheduler/OrcaScheduler.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/scheduler/OrcaScheduler.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/scheduler/OrcaScheduler.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/scheduler/Scheduler.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/scheduler/Scheduler.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/scheduler/Scheduler.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/tensor/BTensor.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/tensor/BTensor.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/tensor/BTensor.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/tensor/NPUTensor.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/tensor/NPUTensor.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/tensor/NPUTensor.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/tensor/NPUTensor2D.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/tensor/NPUTensor2D.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/tensor/NPUTensor2D.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/tensor/NPUTensorKV.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/tensor/NPUTensorKV.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/tensor/NPUTensorKV.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/src",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/.conan2/p/robin822af90d9529b/p/include -I/home/pc1/.conan2/p/b/spdlo300f77512757e/p/include -I/home/pc1/.conan2/p/nlohm1bed1ddc0a2fa/p/include -I/home/pc1/.conan2/p/b/fmt1443eabb387a0/p/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/Simulator_lib.dir/tensor/PIMTensor.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/src/tensor/PIMTensor.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/src/tensor/PIMTensor.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/NewtonSim",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY=1 -D_GLIBCXX_USE_CXX11_ABI=0 -Ddramsim3_EXPORTS -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include/newtonsim -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/headers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/fmt/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -fPIC -Wall -std=c++11 -o CMakeFiles/dramsim3.dir/src/bankstate.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/bankstate.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/bankstate.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/NewtonSim",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY=1 -D_GLIBCXX_USE_CXX11_ABI=0 -Ddramsim3_EXPORTS -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include/newtonsim -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/headers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/fmt/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -fPIC -Wall -std=c++11 -o CMakeFiles/dramsim3.dir/src/channel_state.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/channel_state.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/channel_state.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/NewtonSim",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY=1 -D_GLIBCXX_USE_CXX11_ABI=0 -Ddramsim3_EXPORTS -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include/newtonsim -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/headers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/fmt/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -fPIC -Wall -std=c++11 -o CMakeFiles/dramsim3.dir/src/command_queue.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/command_queue.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/command_queue.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/NewtonSim",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY=1 -D_GLIBCXX_USE_CXX11_ABI=0 -Ddramsim3_EXPORTS -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include/newtonsim -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/headers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/fmt/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -fPIC -Wall -std=c++11 -o CMakeFiles/dramsim3.dir/src/common.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/common.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/common.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/NewtonSim",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY=1 -D_GLIBCXX_USE_CXX11_ABI=0 -Ddramsim3_EXPORTS -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include/newtonsim -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/headers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/fmt/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -fPIC -Wall -std=c++11 -o CMakeFiles/dramsim3.dir/src/configuration.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/configuration.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/configuration.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/NewtonSim",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY=1 -D_GLIBCXX_USE_CXX11_ABI=0 -Ddramsim3_EXPORTS -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include/newtonsim -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/headers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/fmt/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -fPIC -Wall -std=c++11 -o CMakeFiles/dramsim3.dir/src/dram_controller.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/dram_controller.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/dram_controller.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/NewtonSim",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY=1 -D_GLIBCXX_USE_CXX11_ABI=0 -Ddramsim3_EXPORTS -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include/newtonsim -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/headers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/fmt/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -fPIC -Wall -std=c++11 -o CMakeFiles/dramsim3.dir/src/dram_system.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/dram_system.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/dram_system.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/NewtonSim",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY=1 -D_GLIBCXX_USE_CXX11_ABI=0 -Ddramsim3_EXPORTS -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include/newtonsim -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/headers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/fmt/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -fPIC -Wall -std=c++11 -o CMakeFiles/dramsim3.dir/src/NewtonSim.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/NewtonSim.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/NewtonSim.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/NewtonSim",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY=1 -D_GLIBCXX_USE_CXX11_ABI=0 -Ddramsim3_EXPORTS -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include/newtonsim -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/headers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/fmt/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -fPIC -Wall -std=c++11 -o CMakeFiles/dramsim3.dir/src/refresh.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/refresh.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/refresh.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/NewtonSim",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY=1 -D_GLIBCXX_USE_CXX11_ABI=0 -Ddramsim3_EXPORTS -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include/newtonsim -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/headers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/fmt/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -fPIC -Wall -std=c++11 -o CMakeFiles/dramsim3.dir/src/simple_stats.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/simple_stats.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/simple_stats.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/NewtonSim",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY=1 -D_GLIBCXX_USE_CXX11_ABI=0 -Ddramsim3_EXPORTS -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include/newtonsim -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/headers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/fmt/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -fPIC -Wall -std=c++11 -o CMakeFiles/dramsim3.dir/src/timing.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/timing.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/timing.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/NewtonSim",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY=1 -D_GLIBCXX_USE_CXX11_ABI=0 -Ddramsim3_EXPORTS -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include/newtonsim -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/headers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/fmt/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -fPIC -Wall -std=c++11 -o CMakeFiles/dramsim3.dir/src/memory_system.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/memory_system.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/memory_system.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/NewtonSim",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY=1 -D_GLIBCXX_USE_CXX11_ABI=0 -Ddramsim3_EXPORTS -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include/newtonsim -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/headers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/fmt/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -fPIC -Wall -std=c++11 -o CMakeFiles/dramsim3.dir/src/newton_command_queue.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/newton_command_queue.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/newton_command_queue.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/NewtonSim",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY=1 -D_GLIBCXX_USE_CXX11_ABI=0 -Ddramsim3_EXPORTS -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include/newtonsim -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/headers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/fmt/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -fPIC -Wall -std=c++11 -o CMakeFiles/dramsim3.dir/src/newton_controller.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/newton_controller.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/newton_controller.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/NewtonSim",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY=1 -D_GLIBCXX_USE_CXX11_ABI=0 -Ddramsim3_EXPORTS -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include/newtonsim -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/headers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/fmt/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -fPIC -Wall -std=c++11 -o CMakeFiles/dramsim3.dir/src/neupims_controller.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/neupims_controller.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/neupims_controller.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/NewtonSim",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY=1 -D_GLIBCXX_USE_CXX11_ABI=0 -Ddramsim3_EXPORTS -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include/newtonsim -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/headers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/fmt/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -fPIC -Wall -std=c++11 -o CMakeFiles/dramsim3.dir/src/neupims_command_queue.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/neupims_command_queue.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/neupims_command_queue.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/NewtonSim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/headers -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -std=c++11 -o CMakeFiles/dramsim3main.dir/src/main.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/main.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/main.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/NewtonSim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/headers -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -std=c++11 -o CMakeFiles/dramsim3main.dir/src/cpu.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/cpu.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src/cpu.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/NewtonSim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/headers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/dramsim3test.dir/tests/test_config.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/tests/test_config.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/tests/test_config.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/NewtonSim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/ext/headers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/include -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -o CMakeFiles/dramsim3test.dir/tests/test_dramsys.cc.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/tests/test_dramsys.cc",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/NewtonSim/tests/test_dramsys.cc"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/GNNSimConfig.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/GNNSimConfig.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/GNNSimConfig.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/GNNTrafficManager.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/GNNTrafficManager.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/GNNTrafficManager.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/Interconnect.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/Interconnect.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/Interconnect.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/allocators/allocator.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators/allocator.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators/allocator.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/allocators/islip.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators/islip.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators/islip.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/allocators/loa.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators/loa.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators/loa.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/allocators/maxsize.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators/maxsize.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators/maxsize.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/allocators/pim.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators/pim.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators/pim.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/allocators/selalloc.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators/selalloc.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators/selalloc.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/allocators/separable.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators/separable.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators/separable.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/allocators/separable_input_first.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators/separable_input_first.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators/separable_input_first.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/allocators/separable_output_first.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators/separable_output_first.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators/separable_output_first.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/allocators/wavefront.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators/wavefront.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators/wavefront.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/arbiters/arbiter.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters/arbiter.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters/arbiter.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/arbiters/matrix_arb.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters/matrix_arb.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters/matrix_arb.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/arbiters/prio_arb.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters/prio_arb.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters/prio_arb.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/arbiters/roundrobin_arb.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters/roundrobin_arb.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters/roundrobin_arb.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/arbiters/tree_arb.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters/tree_arb.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters/tree_arb.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/batchtrafficmanager.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/batchtrafficmanager.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/batchtrafficmanager.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/booksim_config.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/booksim_config.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/booksim_config.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/buffer.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/buffer.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/buffer.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/buffer_state.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/buffer_state.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/buffer_state.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/config_utils.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/config_utils.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/config_utils.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/credit.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/credit.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/credit.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/flit.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/flit.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/flit.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/flitchannel.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/flitchannel.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/flitchannel.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/injection.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/injection.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/injection.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/main.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/main.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/main.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/misc_utils.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/misc_utils.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/misc_utils.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/module.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/module.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/module.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/networks/anynet.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks/anynet.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks/anynet.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/networks/cmesh.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks/cmesh.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks/cmesh.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/networks/dragonfly.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks/dragonfly.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks/dragonfly.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/networks/fattree.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks/fattree.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks/fattree.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/networks/flatfly_onchip.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks/flatfly_onchip.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks/flatfly_onchip.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/networks/fly.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks/fly.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks/fly.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/networks/kncube.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks/kncube.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks/kncube.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/networks/network.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks/network.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks/network.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/networks/qtree.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks/qtree.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks/qtree.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/networks/tree4.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks/tree4.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks/tree4.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/outputset.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/outputset.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/outputset.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/packet_reply_info.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/packet_reply_info.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/packet_reply_info.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/power/buffer_monitor.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power/buffer_monitor.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power/buffer_monitor.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/power/power_module.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power/power_module.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power/power_module.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/power/switch_monitor.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power/switch_monitor.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power/switch_monitor.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/random_utils.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/random_utils.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/random_utils.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/rng_double_wrapper.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/rng_double_wrapper.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/rng_double_wrapper.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/rng_wrapper.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/rng_wrapper.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/rng_wrapper.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/routefunc.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routefunc.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routefunc.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/routers/chaos_router.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers/chaos_router.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers/chaos_router.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/routers/event_router.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers/event_router.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers/event_router.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/routers/iq_router.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers/iq_router.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers/iq_router.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/routers/router.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers/router.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers/router.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/stats.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/stats.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/stats.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/traffic.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/traffic.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/traffic.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/trafficmanager.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/trafficmanager.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/trafficmanager.cpp"
+},
+{
+  "directory": "/home/pc1/Desktop/Pankaj/NeuPIMs/build-oldabi/extern/booksim",
+  "command": "/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/include/booksim2 -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/allocators -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/arbiters -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/power -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/routers -I/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/networks -isystem /home/pc1/.conan2/p/b/boost9316c068ab46f/p/include -g -O0 -Wall -Wextra --debug-cpp --trace -rdynamic -g -Wall -O3 -o CMakeFiles/booksim2.dir/src/vc.cpp.o -c /home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/vc.cpp",
+  "file": "/home/pc1/Desktop/Pankaj/NeuPIMs/extern/booksim/src/vc.cpp"
+}
+]

@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "../../../extern/NewtonSim/libdramsim3.pdb"
+  "../../../extern/NewtonSim/libdramsim3.so"
+  "CMakeFiles/dramsim3.dir/src/NewtonSim.cc.o"
+  "CMakeFiles/dramsim3.dir/src/NewtonSim.cc.o.d"
+  "CMakeFiles/dramsim3.dir/src/bankstate.cc.o"
+  "CMakeFiles/dramsim3.dir/src/bankstate.cc.o.d"
+  "CMakeFiles/dramsim3.dir/src/channel_state.cc.o"
+  "CMakeFiles/dramsim3.dir/src/channel_state.cc.o.d"
+  "CMakeFiles/dramsim3.dir/src/command_queue.cc.o"
+  "CMakeFiles/dramsim3.dir/src/command_queue.cc.o.d"
+  "CMakeFiles/dramsim3.dir/src/common.cc.o"
+  "CMakeFiles/dramsim3.dir/src/common.cc.o.d"
+  "CMakeFiles/dramsim3.dir/src/configuration.cc.o"
+  "CMakeFiles/dramsim3.dir/src/configuration.cc.o.d"
+  "CMakeFiles/dramsim3.dir/src/dram_controller.cc.o"
+  "CMakeFiles/dramsim3.dir/src/dram_controller.cc.o.d"
+  "CMakeFiles/dramsim3.dir/src/dram_system.cc.o"
+  "CMakeFiles/dramsim3.dir/src/dram_system.cc.o.d"
+  "CMakeFiles/dramsim3.dir/src/memory_system.cc.o"
+  "CMakeFiles/dramsim3.dir/src/memory_system.cc.o.d"
+  "CMakeFiles/dramsim3.dir/src/neupims_command_queue.cc.o"
+  "CMakeFiles/dramsim3.dir/src/neupims_command_queue.cc.o.d"
+  "CMakeFiles/dramsim3.dir/src/neupims_controller.cc.o"
+  "CMakeFiles/dramsim3.dir/src/neupims_controller.cc.o.d"
+  "CMakeFiles/dramsim3.dir/src/newton_command_queue.cc.o"
+  "CMakeFiles/dramsim3.dir/src/newton_command_queue.cc.o.d"
+  "CMakeFiles/dramsim3.dir/src/newton_controller.cc.o"
+  "CMakeFiles/dramsim3.dir/src/newton_controller.cc.o.d"
+  "CMakeFiles/dramsim3.dir/src/refresh.cc.o"
+  "CMakeFiles/dramsim3.dir/src/refresh.cc.o.d"
+  "CMakeFiles/dramsim3.dir/src/simple_stats.cc.o"
+  "CMakeFiles/dramsim3.dir/src/simple_stats.cc.o.d"
+  "CMakeFiles/dramsim3.dir/src/timing.cc.o"
+  "CMakeFiles/dramsim3.dir/src/timing.cc.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/dramsim3.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
