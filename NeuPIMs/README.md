@@ -2,6 +2,8 @@
 
 This is NeuPIMs cycle-accurate simulator. We integrate open-source [NPU simulator](https://github.com/PSAL-POSTECH/ONNXim) and our in-house PIM simulator based on DRAMsim3 to implement NeuPIMs simulator.
 
+See [`NeuPIMs_Modular_Data_Flow_Diagram.md`](./NeuPIMs_Modular_Data_Flow_Diagram.md) for the complete module-by-module data flow, data contracts, waiting points, and latency handling.
+
 ### Publication
 
 - Paper: https://dl.acm.org/doi/10.1145/3620666.3651380
